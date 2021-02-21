@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\WindowsFormsTest\TechDemo\bin\Debug\TechDemo.exe.config
+C:\Users\user\source\repos\WindowsFormsTest\TechDemo\bin\Debug\TechDemo.exe
+C:\Users\user\source\repos\WindowsFormsTest\TechDemo\bin\Debug\TechDemo.pdb
+C:\Users\user\source\repos\WindowsFormsTest\TechDemo\bin\Debug\WindowsFormsTest.exe
+C:\Users\user\source\repos\WindowsFormsTest\TechDemo\bin\Debug\WindowsFormsTest.pdb
+C:\Users\user\source\repos\WindowsFormsTest\TechDemo\bin\Debug\WindowsFormsTest.exe.config
+C:\Users\user\source\repos\WindowsFormsTest\TechDemo\obj\Debug\TechDemo.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsTest\TechDemo\obj\Debug\TechDemo.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsTest\TechDemo\obj\Debug\TechDemo.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsTest\TechDemo\obj\Debug\TechDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsTest\TechDemo\obj\Debug\TechDemo.csproj.CopyComplete
+C:\Users\user\source\repos\WindowsFormsTest\TechDemo\obj\Debug\TechDemo.exe
+C:\Users\user\source\repos\WindowsFormsTest\TechDemo\obj\Debug\TechDemo.pdb

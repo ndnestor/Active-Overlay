@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\WindowsFormsTest\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe.config
+C:\Users\user\source\repos\WindowsFormsTest\WindowsFormsTest\bin\Debug\WindowsFormsTest.exe
+C:\Users\user\source\repos\WindowsFormsTest\WindowsFormsTest\bin\Debug\WindowsFormsTest.pdb
+C:\Users\user\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\ActiveOverlayLibrary.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\ActiveOverlayLibrary.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\ActiveOverlayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.exe
+C:\Users\user\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\WindowsFormsTest.pdb
+C:\Users\user\source\repos\WindowsFormsTest\WindowsFormsTest\obj\Debug\ActiveOverlayForm.OverlayForm.resources
